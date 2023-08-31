@@ -28,6 +28,14 @@ src.mw module
    :undoc-members:
    :show-inheritance:
 
+src.ppheigui module
+-------------
+
+.. automodule:: src.ppheigui
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
 Module contents
 ---------------
 
