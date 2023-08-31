@@ -31,7 +31,7 @@ src.mw module
 src.ppheigui module
 -------------------
 
-.. automodule:: src.ppheigui
+.. automodule:: src.pandapower_heig_ui
    :members:
    :undoc-members:
    :show-inheritance:
